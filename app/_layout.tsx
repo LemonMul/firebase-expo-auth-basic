@@ -10,7 +10,6 @@ import * as SplashScreen from 'expo-splash-screen';
 import { useEffect, useState } from 'react';
 
 import { useColorScheme } from '@/components/useColorScheme';
-import { FIREBASE_APP } from '@/firebase.config';
 
 export {
   // Catch any errors thrown by the Layout component.
